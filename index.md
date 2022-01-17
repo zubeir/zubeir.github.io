@@ -7,23 +7,23 @@ Experience in building, integrating and delivering world class products for both
 Business Process Outsourcing and ‘follow-the-sun’ operations across 26 countries created the need to have a management control dashboard and alerts in real-time. My role was to automate the global business operations of ‘internal controls compliance’ and scale them into cloud services as well as provide BPM dashboard for largest ETF clients in the industry
 
 
-  •	Introduced a multi-phased system design to reach the future-state architecture aligning with efficient use of resources and private-cloud roadmap
+- Introduced a multi-phased system design to reach the future-state architecture aligning with efficient use of resources and private-cloud roadmap
 
-  •	Authored a number of use-cases to remove the use of SharePoint, Excel, Macros, network directories & emails as manual business operations
+- Authored a number of use-cases to remove the use of SharePoint, Excel, Macros, network directories & emails as manual business operations
 
-  •	Integrated with key COE web services (OSA, Acc etc) from the cloud service registry resulting in efficient middleware deployment & showcasing cloud registry re-usability for other departments to follow
+-	Integrated with key COE web services (OSA, Acc etc) from the cloud service registry resulting in efficient middleware deployment & showcasing cloud registry re-usability for other departments to follow
 
-  •	Solved key architectural issues of complex relationships between multi-level business processing, hierarchical process maps, multi-user-roles, approver/reviewer controls across business units etc
+-	Solved key architectural issues of complex relationships between multi-level business processing, hierarchical process maps, multi-user-roles, approver/reviewer controls across business units etc
 
-  •	Designed RESTful Web Services to automate 21 out of 83 business process steps of global ETF processing and & coded respective extract results onto BPM dashboard
+-	Designed RESTful Web Services to automate 21 out of 83 business process steps of global ETF processing and & coded respective extract results onto BPM dashboard
 
-  •	Directed the development of respective modules thru various offshore factories of India, China & Europe with a team of 19 members including team leads
+-	Directed the development of respective modules thru various offshore factories of India, China & Europe with a team of 19 members including team leads
 
-  •	Automation of ICT (Internal Controls Testing) resulted in 66% of ops support cost
+-	Automation of ICT (Internal Controls Testing) resulted in 66% of ops support cost
 
 
 
-```markdown
+```sh
 
 ## Architecture
 - jBOSS EWS/ESB and Satellite Server based PaaS Cloud hosting application specific Mobility Services
