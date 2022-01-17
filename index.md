@@ -63,7 +63,7 @@ Architected, designed, and implemented a single unified highly scalable complian
 • Initiated a pilot ‘innovation’ program for BigData by utilizing IBM Watson’s computational intelligence for issuer credit worthiness as part of credit default compliance resulting in a multi-year project to integrate self-service business data and gold-copy data
 
 
-#### Architecture
+##### Architecture
 - jBOSS EWS/ESB and Satellite Server based PaaS Cloud with Tivoli automated deployment 
 - Mig21 & Actuate based BI with custom reporting. 
 - Clustered Oracle & SQL Server Farm 
@@ -72,10 +72,10 @@ Architected, designed, and implemented a single unified highly scalable complian
 - DataStage & Informix ETL for Bloomberg, Russell, MSCI ETLs
 - IBM WebSphere Portal running Flex3.0 (MXML, ActionScript)
 
-#### Process
+##### Process
 > RUP (Rational Unified Process)
 
-#### Technologies 
+##### Technologies 
 ```markdown
 • SOA, Cloud, SOAP, WSDL, Mig21, CRD, Oracle11g, Apache, IIS, Citrix, CMOD, Global 
 • Topology, LEAN tools, Web Services, Java, Jasper, Cognos, Actuate, 
@@ -103,7 +103,7 @@ Acquisition of IBT by State Street for $4.6B brought in 40+ applications in vari
 •	Developed a 3-year strategic roadmap to improve IT operations, reduce costs by 74% and capitalize on division’s core competencies of SOA, Java/J2EE, Open Source, Cloud and Business Analysis
 
 
-#### Technologies
+##### Technologies
 ```markdown
 • .NET, VB, C#, SQL Server, MS Access, ASP, Oracle, MQ, 
 • IBM WebSphere, SOAP, Java, Log4J, ClearCase, 
@@ -134,7 +134,7 @@ Decommissioning the most complex & p1 (priority 1) application from IBT acquisit
 •	Developed a 3-year strategic roadmap to improve IT operations, reduce costs by 74% and capitalize on division’s core competencies of SOA, Java/J2EE, Open Source, Cloud and Business Analysis
 
 
-#### Technologies
+##### Technologies
 ```markdown
 • Mig21 Datamanager, OTC Derivatives Hub, SOAP, WSDL, Oracle9, SQL, 
 • MiG Report Center, SQL Server, MS Access, PowerBuilder, Clear Case, 
@@ -172,13 +172,13 @@ A defined contribution 401k product implemented as a brand-new offering by the b
 •	Analyzed and data-designed various features of the product such as Buy/Sell security trades, In-kind transfers, Cash Buffer processing, reference maintenance of contracts, issuers, wraps, security etc, expense/security/contract accruals, fees processing etc
 
 
-#### Architecture
+##### Architecture
 - 	IBM WebSphere Portal serving Flex/MXML/ActionScript based RIA 
 - 	Clustered Actuate Report Server & Multi-tenant Oracle Schemas 
 - 	Charles River SOAP/WSDL Webservices & Batch feeds 
 - 	Customized meta-data adaptors & replication for Exadata & Teradata
 
-#### Technologies
+##### Technologies
 ```markdown
 • Java, JSP, Actuate Report Server, IBM WebSphere, 
 • Ant, Toad, SiteMinder, Eclipse, 
