@@ -62,8 +62,8 @@ Architected, designed, and implemented a single unified highly scalable complian
 
 • Initiated a pilot ‘innovation’ program for BigData by utilizing IBM Watson’s computational intelligence for issuer credit worthiness as part of credit default compliance resulting in a multi-year project to integrate self-service business data and gold-copy data
 
-```markdown
-## Architecture
+
+#### Architecture
 - jBOSS EWS/ESB and Satellite Server based PaaS Cloud with Tivoli automated deployment 
 - Mig21 & Actuate based BI with custom reporting. 
 - Clustered Oracle & SQL Server Farm 
@@ -72,14 +72,15 @@ Architected, designed, and implemented a single unified highly scalable complian
 - DataStage & Informix ETL for Bloomberg, Russell, MSCI ETLs
 - IBM WebSphere Portal running Flex3.0 (MXML, ActionScript)
 
-## Process
-- RUP (Rational Unified Process)
+#### Process
+> RUP (Rational Unified Process)
 
-## Technologies 
-- SOA, Cloud, SOAP, WSDL, Mig21, CRD, Oracle11g, Apache, IIS, Citrix, CMOD, Global 
-- Topology, LEAN tools, Web Services, Java, Jasper, Cognos, Actuate, 
-- Siteminder (eSF – enterprise security framework), Squirrel, Autosys, 
-- Tivoli, Redhat Linux, Stored Procedures, BigData (IBM Watson).
+#### Technologies 
+```markdown
+• SOA, Cloud, SOAP, WSDL, Mig21, CRD, Oracle11g, Apache, IIS, Citrix, CMOD, Global 
+• Topology, LEAN tools, Web Services, Java, Jasper, Cognos, Actuate, 
+• Siteminder (eSF – enterprise security framework), Squirrel, Autosys, 
+• Tivoli, Redhat Linux, Stored Procedures, BigData (IBM Watson).
 
 ```
 
@@ -101,14 +102,15 @@ Acquisition of IBT by State Street for $4.6B brought in 40+ applications in vari
 
 •	Developed a 3-year strategic roadmap to improve IT operations, reduce costs by 74% and capitalize on division’s core competencies of SOA, Java/J2EE, Open Source, Cloud and Business Analysis
 
+
+#### Technologies
 ```markdown
-## Technologies
-- .NET, VB, C#, SQL Server, MS Access, ASP, Oracle, MQ, 
-- IBM WebSphere, SOAP, Java, Log4J, ClearCase, 
-- Tivoli, PowerBuilder, Windows 2003, Linux, Spring, 
-- RMI, UML, CVS, Actuate, DataStage, 
-- Informatica, FundSuite SX GCOM(Bowne), LEAN tools, 
-- PHP, Cloud, SLIM Software Estimation 
+• .NET, VB, C#, SQL Server, MS Access, ASP, Oracle, MQ, 
+• IBM WebSphere, SOAP, Java, Log4J, ClearCase, 
+• Tivoli, PowerBuilder, Windows 2003, Linux, Spring, 
+• RMI, UML, CVS, Actuate, DataStage, 
+• Informatica, FundSuite SX GCOM(Bowne), LEAN tools, 
+• PHP, Cloud, SLIM Software Estimation 
 
 ```
 
@@ -131,12 +133,13 @@ Decommissioning the most complex & p1 (priority 1) application from IBT acquisit
 
 •	Developed a 3-year strategic roadmap to improve IT operations, reduce costs by 74% and capitalize on division’s core competencies of SOA, Java/J2EE, Open Source, Cloud and Business Analysis
 
+
+#### Technologies
 ```markdown
-## Technologies
-- Mig21 Datamanager, OTC Derivatives Hub, SOAP, WSDL, Oracle9, SQL, 
-- MiG Report Center, SQL Server, MS Access, PowerBuilder, Clear Case, 
-- CVS, IBM MQ, LEAN tools, Autosys, Toad, Stored Procedures, 
-- C++, C, Macros, IIS, ASP.net, Citrix, Apache, DataStage, Tivoli 
+• Mig21 Datamanager, OTC Derivatives Hub, SOAP, WSDL, Oracle9, SQL, 
+• MiG Report Center, SQL Server, MS Access, PowerBuilder, Clear Case, 
+• CVS, IBM MQ, LEAN tools, Autosys, Toad, Stored Procedures, 
+• C++, C, Macros, IIS, ASP.net, Citrix, Apache, DataStage, Tivoli 
 
 ```
 ### Global Tax Processing System using Milestone: (IaaS/PaaS Integration)
@@ -168,17 +171,18 @@ A defined contribution 401k product implemented as a brand-new offering by the b
 
 •	Analyzed and data-designed various features of the product such as Buy/Sell security trades, In-kind transfers, Cash Buffer processing, reference maintenance of contracts, issuers, wraps, security etc, expense/security/contract accruals, fees processing etc
 
-```markdown
-## Architecture
+
+#### Architecture
 - 	IBM WebSphere Portal serving Flex/MXML/ActionScript based RIA 
 - 	Clustered Actuate Report Server & Multi-tenant Oracle Schemas 
 - 	Charles River SOAP/WSDL Webservices & Batch feeds 
 - 	Customized meta-data adaptors & replication for Exadata & Teradata
 
-## Technologies
-- Java, JSP, Actuate Report Server, IBM WebSphere, 
-- Ant, Toad, SiteMinder, Eclipse, 
-- Oracle 10g, Java scheduler, AutoSys, 
-- STRUTS, EJB2.0, Bloomberg VR , 
-- Javamail, TestNG, Sahi Test Automation
+#### Technologies
+```markdown
+• Java, JSP, Actuate Report Server, IBM WebSphere, 
+• Ant, Toad, SiteMinder, Eclipse, 
+• Oracle 10g, Java scheduler, AutoSys, 
+• STRUTS, EJB2.0, Bloomberg VR , 
+• Javamail, TestNG, Sahi Test Automation
 ```
