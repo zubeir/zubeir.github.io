@@ -35,14 +35,11 @@ Business Process Outsourcing and ‘follow-the-sun’ operations across 26 count
 > Agile TDD (Test Driven Development) / RUP(Rational Unified Process) Environment   
 
 ##### Technologies
-```code
-•	SOA, Agile, Cloud, jBPM, CRD, Teradata, Exadata, SOAP, WSDL, Java, Struts, WebSphere        
-
-•	 Eclipse, Oracle11g, Clearcase, Jira, SVN, CVS, Solr, Unix/Linux, Apache, LEAN, Quartz        
-
-•	HTML, UML, JMS/MQ, ANT,junit, CMOD, autosys, Tivoli, Oracle, GWT, Log4J and Cloud based Logbrowser        
-
-•	Service Registry,  Jasper, Actuate, Siteminder (eSF – enterprise security framework), Squirrel       
+```markdown
+• SOA, Agile, Cloud, jBPM, CRD, Teradata, Exadata, SOAP, WSDL, Java, Struts, WebSphere        
+• Eclipse, Oracle11g, Clearcase, Jira, SVN, CVS, Solr, Unix/Linux, Apache, LEAN, Quartz        
+• HTML, UML, JMS/MQ, ANT,junit, CMOD, autosys, Tivoli, Oracle, GWT, Log4J and Cloud based Logbrowser        
+• Service Registry,  Jasper, Actuate, Siteminder (eSF – enterprise security framework), Squirrel       
 ```
 
 
