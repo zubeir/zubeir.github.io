@@ -26,7 +26,8 @@ Business Process Outsourcing and ‘follow-the-sun’ operations across 26 count
 
 
 ##### Architecture
-- jBOSS EWS/ESB and Satellite Server based PaaS Cloud hosting application specific Mobility Services   
+-      
+  - jBOSS EWS/ESB and Satellite Server based PaaS Cloud hosting application specific Mobility Services   
 - Applying Google Web Toolkit (GWT 2.2) for UI.    
 - Using Clustered Quartz, iDeliver, Oracle Golden Gate for ETL.    
 - Customized meta-data adaptors & replication for Exadata & Teradata.   
