@@ -185,9 +185,34 @@ A defined contribution 401k product implemented as a brand-new offering by the b
 
 ##### Technologies
 ```markdown
-• Java, JSP, Actuate Report Server, IBM WebSphere, 
-• Ant, Toad, SiteMinder, Eclipse, 
-• Oracle 10g, Java scheduler, AutoSys, 
-• STRUTS, EJB2.0, Bloomberg VR , 
-• Javamail, TestNG, Sahi Test Automation
+• Java, JSP, Actuate Report Server, IBM WebSphere    
+• Ant, Toad, SiteMinder, Eclipse      
+• Oracle 10g, Java scheduler, AutoSys     
+• STRUTS, EJB2.0, Bloomberg VR      
+• Javamail, TestNG, Sahi Test Automation   
+```
+
+### Fail Mgmt. Portal: (New Product Offering)  
+An ambitious initiative by the enterprise to aggregate all the exceptions and warnings from post-trade compliance processing of all funds, all clients across all geographical locations. My role was to build this product from ground-up and deploy it onto client-facing portal (myss.com). 
+
+•	Incorporated the use of cutting-edge Flex based UI and evangelized its development thru the technology center of China. A brand-new model of working with offshore at that time 
+
+•	Pioneered the use of Rational Unified Model for portal development to gather requirements
+
+•	Architected the underlying data processing system of CRD to feed appropriate violations to the portal environment
+
+•	Evangelized the introduction of CRD into State Street and managed the deployment of V7, V8 and point releases for various business units
+
+•	Created enterprise data feed architecture for CRD and programmed batch reporting (doreports) to scale for on-demand needs of the portal 
+
+•	Consistently delivered multiple releases of this product under strict timelines and client-enhancement requests
+
+•	Tackled numerous requests for architecture changes successfully and made it a flagship product for marketing department
+##### Technologies
+```markdown
+• Flex, MXML, ActionScript, Java, JSP, IBM WebSphere 
+• Oracle, Apache, Crystal, JDBC, HTML 
+• SOAP over HTTP, WSDL, 
+• CRD (doReports, doFeeds), UDFs, UML 
+• Autosys, Log4J, Cairngorm 1.0
 ```
