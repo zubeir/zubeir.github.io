@@ -23,24 +23,30 @@ Business Process Outsourcing and ‘follow-the-sun’ operations across 26 count
 
 
 
-```sh
 
-## Architecture
-- jBOSS EWS/ESB and Satellite Server based PaaS Cloud hosting application specific Mobility Services
-- Applying Google Web Toolkit (GWT 2.2) for UI. 
-- Using Clustered Quartz, iDeliver, Oracle Golden Gate for ETL. 
-- Customized meta-data adaptors & replication for Exadata & Teradata.
 
-## Process
-- Agile TDD (Test Driven Development) / RUP(Rational Unified Process) Environment 
+#### Architecture
+  > jBOSS EWS/ESB and Satellite Server based PaaS Cloud hosting application specific Mobility Services
+  > 
+  > Applying Google Web Toolkit (GWT 2.2) for UI. 
+  > 
+  > Using Clustered Quartz, iDeliver, Oracle Golden Gate for ETL. 
+  > 
+  > Customized meta-data adaptors & replication for Exadata & Teradata.
 
-## Technologies
-- SOA, Agile, Cloud, jBPM, CRD, Teradata, Exadata, SOAP, WSDL, Java, Struts, WebSphere, 
-- Eclipse, Oracle11g, Clearcase, Jira, SVN, CVS, Solr, Unix/Linux, Apache, LEAN, Quartz, 
-- HTML, UML, JMS/MQ, ANT,junit, CMOD, autosys, Tivoli, Oracle, GWT, Log4J and Cloud based Logbrowser, 
-- Service Registry,  Jasper, Actuate, Siteminder (eSF – enterprise security framework), Squirrel
+#### Process 
+> Agile TDD (Test Driven Development) / RUP(Rational Unified Process) Environment 
 
-```
+#### Technologies
+> SOA, Agile, Cloud, jBPM, CRD, Teradata, Exadata, SOAP, WSDL, Java, Struts, WebSphere 
+> 
+> Eclipse, Oracle11g, Clearcase, Jira, SVN, CVS, Solr, Unix/Linux, Apache, LEAN, Quartz 
+> 
+> HTML, UML, JMS/MQ, ANT,junit, CMOD, autosys, Tivoli, Oracle, GWT, Log4J and Cloud based Logbrowser 
+> 
+> Service Registry,  Jasper, Actuate, Siteminder (eSF – enterprise security framework), Squirrel
+
+
 
 
 ### Global Compliance Processing System: (Enterprise Product)  
