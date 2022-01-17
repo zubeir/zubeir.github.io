@@ -36,10 +36,13 @@ Business Process Outsourcing and ‘follow-the-sun’ operations across 26 count
 
 ##### Technologies
 ```markdown
-• SOA, Agile, Cloud, jBPM, CRD, Teradata, Exadata, SOAP, WSDL, Java, Struts, WebSphere        
-• Eclipse, Oracle11g, Clearcase, Jira, SVN, CVS, Solr, Unix/Linux, Apache, LEAN, Quartz        
-• HTML, UML, JMS/MQ, ANT,junit, CMOD, autosys, Tivoli, Oracle, GWT, Log4J and Cloud based Logbrowser        
-• Service Registry,  Jasper, Actuate, Siteminder (eSF – enterprise security framework), Squirrel       
+• SOA, Agile, Cloud, jBPM, CRD, Teradata, Exadata, SOAP, WSDL,     
+• Java, Struts, WebSphere, Eclipse, Oracle11g, Clearcase, Jira    
+• SVN, CVS, Solr, Unix/Linux, Apache, LEAN, Quartz          
+• HTML, UML, JMS/MQ, ANT,junit, CMOD, autosys, Tivoli      
+• Oracle, GWT, Log4J and Cloud based Logbrowser           
+• Service Registry,  Jasper, Actuate     
+• Siteminder (eSF – enterprise security framework), Squirrel       
 ```
 
 
@@ -77,10 +80,12 @@ Architected, designed, and implemented a single unified highly scalable complian
 
 ##### Technologies 
 ```markdown
-• SOA, Cloud, SOAP, WSDL, Mig21, CRD, Oracle11g, Apache, IIS, Citrix, CMOD, Global 
-• Topology, LEAN tools, Web Services, Java, Jasper, Cognos, Actuate, 
-• Siteminder (eSF – enterprise security framework), Squirrel, Autosys, 
-• Tivoli, Redhat Linux, Stored Procedures, BigData (IBM Watson).
+• SOA, Cloud, SOAP, WSDL, Mig21, CRD, Oracle11g, Apache      
+• IIS, Citrix, CMOD Global Topology      
+• LEAN tools, Web Services, Java, Jasper, Cognos, Actuate     
+• Siteminder (eSF – enterprise security framework), 
+• Squirrel, Autosys, Tivoli    
+• Redhat Linux, Stored Procedures, BigData (IBM Watson).
 
 ```
 
@@ -136,11 +141,11 @@ Decommissioning the most complex & p1 (priority 1) application from IBT acquisit
 
 ##### Technologies
 ```markdown
-• Mig21 Datamanager, OTC Derivatives Hub, SOAP, WSDL, Oracle9, SQL, 
-• MiG Report Center, SQL Server, MS Access, PowerBuilder, Clear Case, 
-• CVS, IBM MQ, LEAN tools, Autosys, Toad, Stored Procedures, 
-• C++, C, Macros, IIS, ASP.net, Citrix, Apache, DataStage, Tivoli 
-
+• Mig21 Datamanager, OTC Derivatives Hub, SOAP, WSDL     
+• MiG Report Center, SQL Server, MS Access      
+• CVS, IBM MQ, LEAN tools, Autosys, Toad, Stored Procedures     
+• C++, C, Macros, IIS, ASP.net, Citrix, Apache       
+• Oracle9, SQL, ClearCase, PowerBuilder, DataStage
 ```
 ### Global Tax Processing System using Milestone: (IaaS/PaaS Integration)
 An initiative to consolidate all tax processing of enterprise into a single offering. 
