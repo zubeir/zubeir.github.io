@@ -6,19 +6,22 @@ Experience in building, integrating and delivering world class products for both
 
 Business Process Outsourcing and ‘follow-the-sun’ operations across 26 countries created the need to have a management control dashboard and alerts in real-time. My role was to automate the global business operations of ‘internal controls compliance’ and scale them into cloud services as well as provide BPM dashboard for largest ETF clients in the industry
 
-•	Introduced a multi-phased system design to reach the future-state architecture aligning with efficient use of resources and private-cloud roadmap
 
-•	Authored a number of use-cases to remove the use of SharePoint, Excel, Macros, network directories & emails as manual business operations
+  •	Introduced a multi-phased system design to reach the future-state architecture aligning with efficient use of resources and private-cloud roadmap
 
-•	Integrated with key COE web services (OSA, Acc etc) from the cloud service registry resulting in efficient middleware deployment & showcasing cloud registry re-usability for other departments to follow
+  •	Authored a number of use-cases to remove the use of SharePoint, Excel, Macros, network directories & emails as manual business operations
 
-•	Solved key architectural issues of complex relationships between multi-level business processing, hierarchical process maps, multi-user-roles, approver/reviewer controls across business units etc
+  •	Integrated with key COE web services (OSA, Acc etc) from the cloud service registry resulting in efficient middleware deployment & showcasing cloud registry re-usability for other departments to follow
 
-•	Designed RESTful Web Services to automate 21 out of 83 business process steps of global ETF processing and & coded respective extract results onto BPM dashboard
+  •	Solved key architectural issues of complex relationships between multi-level business processing, hierarchical process maps, multi-user-roles, approver/reviewer controls across business units etc
 
-•	Directed the development of respective modules thru various offshore factories of India, China & Europe with a team of 19 members including team leads
+  •	Designed RESTful Web Services to automate 21 out of 83 business process steps of global ETF processing and & coded respective extract results onto BPM dashboard
 
-•	Automation of ICT (Internal Controls Testing) resulted in 66% of ops support cost
+  •	Directed the development of respective modules thru various offshore factories of India, China & Europe with a team of 19 members including team leads
+
+  •	Automation of ICT (Internal Controls Testing) resulted in 66% of ops support cost
+
+
 
 ```markdown
 
@@ -137,9 +140,44 @@ Decommissioning the most complex & p1 (priority 1) application from IBT acquisit
 ```
 ### Global Tax Processing System using Milestone: (IaaS/PaaS Integration)
 An initiative to consolidate all tax processing of enterprise into a single offering. 
+
 •	Evaluate vendor (Milestone) architecture 
+
 •	Create POC and review private cloud-based requirements
+
 •	Build global tax rules and deploy them on Multi Tenant architecture 
+
 •	Create a global architecture with each tenant per global region
+
 •	Build a global ops support system with multiple tools and automation
 
+
+### Stable Value Accounting & Record Keeping System: (New Product Offering & BI) 
+A defined contribution 401k product implemented as a brand-new offering by the business. My role is to implement this product from ground-up and in-source client’s IT operations into State Street. 
+
+•	Introduced Agile development model by creating joint design sessions with business, analysts, architects and developers 
+
+•	Widened the development productivity by creating multi-time-zone development teams with complimentary roles
+
+•	Chaired the architecture committee while visiting clients for in-sourcing their IT operations and cataloging the gaps
+
+•	Pioneered implementation of the 80:20 offshore development model for the company
+
+•	Successfully spear-headed design and development of seven releases of the product through a three-year time-span and a team of 21 developers
+
+•	Analyzed and data-designed various features of the product such as Buy/Sell security trades, In-kind transfers, Cash Buffer processing, reference maintenance of contracts, issuers, wraps, security etc, expense/security/contract accruals, fees processing etc
+
+```markdown
+## Architecture
+- 	IBM WebSphere Portal serving Flex/MXML/ActionScript based RIA 
+- 	Clustered Actuate Report Server & Multi-tenant Oracle Schemas 
+- 	Charles River SOAP/WSDL Webservices & Batch feeds 
+- 	Customized meta-data adaptors & replication for Exadata & Teradata
+
+## Technologies
+- Java, JSP, Actuate Report Server, IBM WebSphere, 
+- Ant, Toad, SiteMinder, Eclipse, 
+- Oracle 10g, Java scheduler, AutoSys, 
+- STRUTS, EJB2.0, Bloomberg VR , 
+- Javamail, TestNG, Sahi Test Automation
+```
