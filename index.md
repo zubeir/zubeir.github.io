@@ -216,3 +216,32 @@ An ambitious initiative by the enterprise to aggregate all the exceptions and wa
 • CRD (doReports, doFeeds), UDFs, UML 
 • Autosys, Log4J, Cairngorm 1.0
 ```
+
+### PayVus - Merchant Payments System (Innovation, BaaS) for USA & Canada
+
+Spearheaded a ground-up credit card/ACH process optimization product for merchant services - PayVus. A brand-new perspective to payments industry with a model for interchange minus as fees to merchant settlements
+
+
+- Created requirements by working with various banks, merchant service providers and testing its validity on client funded focus groups 
+
+- Architected the end-2-end money flow of the entire system
+
+- Integrated with all of the Payment processors along the transaction flow -  VISA/MC, Acquirer Processors, Issuer Processors for US as well as Canada
+
+-	Choreographed core technology framework by managing iterative POCs from security architects, system designers, technology vendors, backend architects & cloud deployers
+
+-	Co-authored a distributed cloud-based ledger connecting transactions between Issuers, Acquirers, ISO, Agents, Merchants into a multi-tenant partnership platform
+
+##### Architecture
+- Java, Spring Boot, Hibernate 4, Lombok, Spring Security, Tomcat for middleware stack   
+- AWS, Lambda, MongoDB, Python for Serverless computing.    
+- FindBugs, PMD, CheckStyle, Selenium, ReadyAPI for automated tests and verification.    
+- AngularJS 1.5 for UI, API/Microservices for SOA, SaaS/PaaS servicing models.
+- Cloudbased distributed ledger for ‘state’ management & accounting   
+
+##### Process 
+> Domain Driven Design (DDD), API @core Model development, SCRUM   
+
+
+
+
