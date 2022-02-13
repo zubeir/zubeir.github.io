@@ -232,6 +232,15 @@ Spearheaded a ground-up credit card/ACH process optimization product for merchan
 
 -	Co-authored a distributed cloud-based ledger connecting transactions between Issuers, Acquirers, ISO, Agents, Merchants into a multi-tenant partnership platform
 
+-	Created User journeys and screen flows on highly complex merchant's business underwriting & compliance. Built a all-inclusive self service exception handling workflow over AI framework.
+
+- Showcased value delivery of features and optizing them for competing client needs
+
+- Built a complete payments accounting structure to perform daily funding settlement with VISA/MC & banks, a daily recon of revenue and fees for every entity on the transaction, a comprehensive reporting of all ledgers across the distributed network. 
+
+
+
+
 ##### Architecture
 - Java, Spring Boot, Hibernate 4, Lombok, Spring Security, Tomcat for middleware stack   
 - AWS, Lambda, MongoDB, Python for Serverless computing.    
