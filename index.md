@@ -224,9 +224,9 @@ Spearheaded a ground-up credit card/ACH process optimization product for merchan
 
 - Created requirements by working with various banks, merchant service providers and testing its validity on client funded focus groups 
 
-- Architected the end-2-end money flow of the entire system
+- Architected the end-2-end money flow. Designed the journey of a dollar across the whole payment eco-system between issuer, processor, VISA/MC for both USA and Canada.
 
-- Integrated with all of the Payment processors along the transaction flow -  VISA/MC, Acquirer Processors, Issuer Processors for US as well as Canada
+- Integrated with all of the Payment processors along the transaction flow.
 
 -	Choreographed core technology framework by managing iterative POCs from security architects, system designers, technology vendors, backend architects & cloud deployers
 
