@@ -253,4 +253,43 @@ Spearheaded a ground-up credit card/ACH process optimization product for merchan
 
 
 
+#  From 26 Hours to 2: Re-Architecting Payment Settlement at Scale
 
+In a recent platform optimization initiative, we tackled a batch settlement job that was taking over **26 hours** to process millions of payment transactions. The goal: reduce latency, improve scalability, and enable real-time visibility across verticals.
+
+##  The Bottleneck
+
+Initially, batches were split **by client**, with each client’s transactions processed sequentially. This created uneven load distribution and limited parallelism. Worse, transactions were queued **by state** (e.g., authorized, pending), requiring full context before processing—slowing throughput and complicating retries.
+
+##  The Breakthrough
+
+We re-architected the flow by:
+
+- Splitting files by **transaction objects** (e.g., payment info, authorization, metadata)
+- Queuing objects independently, regardless of transaction state
+- Linking all objects via a unique **TID (Transaction ID)**
+- Updating transaction state dynamically as objects arrived
+
+This allowed the system to process components in parallel, update transaction records incrementally, and mark them as **Settled** once all required objects were present.
+
+##  New Flow Architecture
+Batch File → Split by Objects → Drop into Queue → Process Independently → Link by TID → Update State → Mark as Settled
+
+
+| Step                  | Benefit                                 |
+|-----------------------|------------------------------------------|
+| Object-level splitting| Enables granular parallelism             |
+| Stateless queuing     | Removes dependency on full context       |
+| TID-based linking     | Supports dynamic state transitions       |
+| Event-driven updates  | Enables real-time settlement             |
+
+## 📈 Results
+
+- ⏱ **Processing time** dropped from 26 hours to **under 2 hours**
+- 💸 Processed **$129M+** across **7.2M transactions** at **1800 tps**
+- ⚙️ Enabled **horizontal scalability** and **object-level retries**
+- 📊 Improved visibility for vertical-specific dashboards
+
+##  Strategic Impact
+
+This shift from client-centric batching to **object-driven, event-based processing** unlocked performance and resilience. It’s a model that scales across verticals—education, healthcare, travel etc., where transaction complexity and compliance vary.
