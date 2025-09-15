@@ -283,6 +283,29 @@ Batch File → Split by Objects → Drop into Queue → Process Independently �
 | TID-based linking     | Supports dynamic state transitions       |
 | Event-driven updates  | Enables real-time settlement             |
 
+To support this scale, we applied targeted JVM optimizations:
+
+- **Heap Sizing**: Set `-Xms` and `-Xmx` to fixed values to avoid dynamic resizing
+- **Garbage Collection**: Adopted `G1GC` with `MaxGCPauseMillis=200` for balanced throughput
+- **Thread Management**: Tuned executor pools and stack size (`-Xss`) for high concurrency
+- **I/O Optimization**: Leveraged NIO and buffered streams for large file ingestion
+
+These changes stabilized memory usage, reduced GC pauses, and enabled parallel object processing across millions of transactions.
+
+## 🗃️ Database Tuning Highlights
+
+We also optimized the database layer to support high-throughput settlement:
+
+- **Row-Level Batching**: Updated transactions in controlled chunks using indexed ranges
+- **Targeted Indexing**: Added composite and filtered indexes on `TransactionID`, `Status`, and `ClientID`
+- **Partitioning**: Split large tables by `CreatedDate` and `VerticalType` for faster scans
+- **Lock Minimization**: Enabled row versioning and reduced contention with optimistic concurrency
+
+These changes ensured that TID-based updates were fast, reliable, and horizontally scalable across verticals.
+
+
+
+
 ## 📈 Results
 
 - ⏱ **Processing time** dropped from 26 hours to **under 2 hours**
